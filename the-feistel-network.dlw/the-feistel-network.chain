@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 2018
+slug  : the-feistel-network
+seal  : 92782fb0bb0f37e7ef066afb0efdd7c9e0b73daca5f178205cf4f32cb1fd4e2f
+prev  : ecefe62637f77c9230ed76a07adb34c50e8bc625b998615f5e0eef9c7d36ca63
+link  : 1fb9fc6fef1742e3374070e9e92d74139cfa725138c8b3c22d393d0af0f7e689
+head  : 6387af6870de4b475f9bfa3afabdd7f4465c8cf6e3cd383f9359c35f9b636cf0
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
